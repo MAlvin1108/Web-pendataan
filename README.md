@@ -32,7 +32,7 @@ Berdasarkan file-file yang ada, berikut adalah fitur utama dari aplikasi ini:
 * **Backend**: PHP
 * **Database**: MySQL
 * **Frontend**: HTML, CSS (Bootstrap), JavaScript (simple-datatables, Chart.js)
-* **Web Server**: Apache (direkomendasikan menggunakan XAMPP atau sejenisnya)
+* **Web Server**: XAMPP
 
 ## Panduan Instalasi
 
